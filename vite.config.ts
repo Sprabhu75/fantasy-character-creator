@@ -3,6 +3,13 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig} from 'vite';
 
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  root: 'index.html', // or wherever your index.html lives
+})
+
+
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
