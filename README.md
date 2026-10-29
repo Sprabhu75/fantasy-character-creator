@@ -1,6 +1,6 @@
 # Fantasy Character Creator — RPG Trading Card Edition
 
-An Ancient Alchemist-themed web application that generates unique fantasy characters and RPG player cards powered by Google Gemini AI.
+A web-based Fantasy Character Creator that allows users to customize, build, and save their own unique RPG characters, choosing from various races, classes, attributes, and visual styles and generates unique fantasy characters and RPG player cards powered by Google Gemini AI.
 
 ## Features
 - **RPG Trading Player Card**: Formatted as a single bordered collectible player card with antique brass inlays, corner rivets, and stylized fantasy typography.
